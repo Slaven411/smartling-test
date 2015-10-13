@@ -12,8 +12,12 @@
         <target>baa baa monkey baa</target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve">
-        <source>The elephant ate a coconut</source>
-        <target>foo foo elephant foo</target>
+        <source>The elephant ate a apple</source>
+        <target>The apple ate an elephant</target>
+      </trans-unit>
+      <trans-unit id="5" xml:space="preserve">
+        <source>The Zedbra ate a peach</source>
+        <target>The peach ate a zedbra</target>
       </trans-unit>
     </body>
   </file>
